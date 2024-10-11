@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Link contoh Design template : https://dribbble.com/shots/24963604-Task-Flow-Mobile-App-Concept
+
+Link Screenshot tugas  : https://drive.google.com/drive/folders/1qYZOyvqREK4_n9RimGdVeXpkfs4MFG1v?usp=sharing
+
